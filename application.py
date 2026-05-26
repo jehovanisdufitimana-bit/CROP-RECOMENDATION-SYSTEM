@@ -49,4 +49,4 @@ if st.button("Predict Crop"):
 
 # Footer / info
 st.markdown("---")
-st.markdown("This app is based on **MY CAPSTONE PROJECT**.")
+st.markdown("**MY CAPSTONE PROJECT**.")
