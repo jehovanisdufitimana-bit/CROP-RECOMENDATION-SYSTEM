@@ -5,12 +5,12 @@ import os
 
 # Page configuration
 st.set_page_config(
-    page_title="Crop Recommendation System (GROUP2)",
+    page_title="Crop Recommendation System",
     page_icon="🌱",
     layout="centered"
 )
 
-st.title("🌱 Crop Recommendation System (GROUP2)")
+st.title("🌱 Crop Recommendation System ")
 
 # Get the directory of this script
 BASE_DIR = os.path.dirname(__file__)
